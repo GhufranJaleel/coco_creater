@@ -1,5 +1,6 @@
 {
   "imports": {
-    "cc": "https://raw.githubusercontent.com/GhufranJaleel/coco_creater/main/cocos-js/cc.js"
+    "cc": "https://raw.githubusercontent.com/GhufranJaleel/coco_creater/main/cocos-js/cc.js",
+    "app": "https://raw.githubusercontent.com/GhufranJaleel/coco_creater/main/application.js"
   }
 }
