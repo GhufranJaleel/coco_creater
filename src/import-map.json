@@ -1,1 +1,5 @@
-{"imports":{"cc":"./../cocos-js/cc.js"}}
+{
+  "imports": {
+    "cc": "https://raw.githubusercontent.com/GhufranJaleel/coco_creater/main/cocos-js/cc.js"
+  }
+}
